@@ -19,7 +19,8 @@ Gem::Specification.new do |s|
   s.add_dependency('bitcoin-secp256k1', '~> 0.4')
   s.add_dependency('lru_redux', '~> 1.1')
   s.add_dependency('ffi', '~> 1.9')
-  s.add_dependency('digest-sha3', '~> 1.1')
+  # s.add_dependency('digest-sha3', '~> 1.1')
+  s.add_dependency('keccak', '~> 1.2')
   s.add_dependency('block_logger', '>= 0.1.3')
   s.add_dependency('leveldb', '0.1.9')
 
