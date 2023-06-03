@@ -1,7 +1,7 @@
 # -*- encoding : ascii-8bit -*-
 
 require 'digest'
-require 'digest/keccak'
+require 'digest/sha3'
 require 'openssl'
 
 module Ethereum
