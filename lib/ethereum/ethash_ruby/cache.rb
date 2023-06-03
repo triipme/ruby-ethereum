@@ -1,6 +1,6 @@
 # -*- encoding : ascii-8bit -*-
 
-require 'prime'
+# require 'prime'
 
 module Ethereum
   module EthashRuby
